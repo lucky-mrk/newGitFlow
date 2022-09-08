@@ -1,2 +1,5 @@
 hello My Life
 Hello New text
+
+Added new feature
+Added second feature
